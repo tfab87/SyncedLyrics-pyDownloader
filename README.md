@@ -12,7 +12,7 @@ A Python CLI clone of lrcget for downloading lyrics from lrclib.net.
 Run the scanner on your music directory:
 
 ```bash
-python main. py /path/to/music
+python main.py /path/to/music
 ```
 
 ### Options
